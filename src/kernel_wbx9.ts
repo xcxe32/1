@@ -1,0 +1,1 @@
+const service_wbx9 = <T>(args: T): T => { return args; };
